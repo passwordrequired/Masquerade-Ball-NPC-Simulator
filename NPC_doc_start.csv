@@ -1,0 +1,106 @@
+Mask,Name,Alignment,Affiliation1,Affiliation2,Affiliation3,Affiliation4,Personality,Motive,AntiMotive,Skill1,Skill2,Species,Location,Cooperation,MapKnowledge,Secrecy,Intelligence1,Intelligence2,Intelligence3,Intelligence4,Intelligence5,Intelligence6,FavorOwed,Sociability,Curiosity,Paranoia,Mobility,SpecialBehavior
+Mirror,Lark,Chaotic Good,8,3,12,13,"Calm, Sedentary",Affirmation,Threat,special,null,Gnome,13,-1,3,1,0,0,0,0,0,0,0,-2,-1,3,-1,1
+Straw,Yu,Lawful Good,10,9,12,15,"Deceptive, Sarcastic",Money,Threat,special,null,Half-Elf,13,-1,3,2,0,0,0,0,0,0,0,-1,-1,0,-5,1
+Shelf Mushroom,Grem,Good,1,9,12,15,"Sedentary, Stupid",Romance,Rules,special,null,Halfling,13,-1,3,2,0,0,0,0,0,0,0,-5,-1,5,4,1
+Smoke,Pif,Lawful Good,6,7,12,14,"Manipulative, Suspicious",Alcohol,Threat,special,null,Air Genasi,14,-1,3,2,0,0,0,0,0,0,0,3,4,-5,4,1
+Moon,Del,Chaotic good,9,7,13,15,"Plain, Kind",Power,Rules,special,null,Elf,16,0,1,0,0,0,0,0,0,0,0,-2,-1,-4,-2,1
+N/A,Heimnis,Chaotic Good,3,9,12,15,"Kind, Eloquent",Curiosity,Threat,special,null,Human Demigod,15,-5,3,5,0,0,0,0,0,0,0,4,-3,5,4,1
+Housefly,Ten-Nis,Chaotic Evil,8,2,11,15,"Creative, Arrogant",Food,Rules,special,null,Changeling,16,-2,2,3,0,0,0,0,0,0,0,5,-2,-3,-5,1
+Kaleidoscope,Tanya,Chaotic Neutral,7,3,15,15,"Beautiful, Deceptive",Romance,Rules,special,null,Fey,15,3,3,5,0,0,0,0,0,0,0,4,4,2,0,0
+Whirlpool,Tallik,Chaotic Good,10,2,15,15,"Serious, Calm",Affirmation,Food,special,null,Silver Dragon,13,2,3,3,0,0,0,0,0,0,0,4,4,1,-1,0
+Cymbal,Ten-Tempo,Chaotic Neutral,4,3,14,15,"Silly, Wealthy",Information,Curiosity,special,null,Air Genie,13,1,1,3,0,0,0,0,0,0,0,4,1,-5,1,0
+Marble (Ball),Poqli,Evil,7,5,11,15,"Manipulative, Calm",Affirmation,Romance,special,null,Beholder,15,-3,3,4,0,0,0,0,0,0,0,3,-5,-2,1,0
+Sun,Chloe,Chaotic Evil,10,6,11,15,"Arrogant, Confident",Money,Romance,special,null,Human Vampire,14,-4,2,0,0,0,0,0,0,0,0,-1,-5,-1,0,0
+Ox,Olivia,Neutral,8,10,15,15,"Sleepy, Silly",Alcohol,Affirmation,Performance,Perception,Dwarf,14,-5,2,3,0,0,0,0,0,0,0,4,5,1,-5,0
+Bull,Liam,Neutral,1,8,15,15,"Beautiful, Sedentary",Food,Curiosity,Stealth,History,Half-Elf,16,4,3,3,0,0,0,0,0,0,0,-2,3,4,-4,0
+Squirrel,Emma,Good,6,7,15,15,"Honest, Beautiful",Contest,Money,Nature,Arcana,Fairy,16,-5,3,-1,0,0,0,0,0,0,0,3,5,3,5,0
+Jade,Noah,Neutral,4,7,15,15,"Sarcastic, Suspicious",Curiosity,Threat,Nature,Religion,Giant,13,2,1,0,0,0,0,0,0,0,0,1,-3,-1,-5,0
+Cloud,Charlotte,Lawful Neutral,8,4,15,15,"Kind, Creative",Money,Affirmation,Insight,Nature,Halfling,16,-3,1,-1,0,0,0,0,0,0,0,5,-3,-4,5,0
+Diamond,Oliver,Chaotic Good,10,1,15,15,"Beautiful, Stupid",Power,Information,Persuatsion,Performance,Dwarf,16,-3,1,2,0,0,0,0,0,0,0,-4,0,3,-4,0
+Scale,Amelia,Evil,1,4,15,15,"Athletic, Stupid",Curiosity,Contest,Animal Handling,Deception,Elf,15,2,1,-3,0,0,0,0,0,0,1,5,4,0,-2,0
+Fire,James,Good,2,7,15,15,"Smart, Sarcastic",Contest,null,Medicine,Animal Handling,Halfling,14,5,1,-1,0,0,0,0,0,0,0,1,-5,2,-4,0
+Iron,Sophia,Chaotic Neutral,5,6,15,15,"Smart, Sad",Affirmation,Curiosity,Deception,Special,Giant,15,3,1,2,0,0,0,0,0,0,1,5,-4,5,4,0
+Marble (Rock),Elijah,Good,7,0,15,15,"Sad, Serious",Information,Money,Medicine,null,Giant,13,-1,1,1,0,0,0,0,0,0,0,0,-5,-3,-2,0
+Eye,Isabella,Lawful Neutral,3,9,15,15,"Athletic, Monotone",Threat,null,Persuatsion,Insight,Dwarf,15,5,1,5,0,0,0,0,0,0,0,5,3,-3,-3,0
+Sand,William,Good,4,10,15,15,"Beautiful, Compulsive",Threat,Alcohol,Perception,Persuatsion,Dragonborn,14,4,2,5,0,0,0,0,0,0,0,-3,-1,-1,-1,0
+Glass,Henry,Good,2,10,15,15,"Quiet, Silly",Morality,Information,Insight,Stealth,Goblin,14,-5,2,5,0,0,0,0,0,0,1,2,-1,-3,-4,0
+Keyhole,Ava,Good,7,0,15,15,"Monotone, Sarcastic",Curiosity,Money,Religion,Medicine,Half-Orc,14,1,1,2,0,0,0,0,0,0,0,-3,1,0,-4,0
+Armadillo Scute,Mia,Lawful Neutral,5,4,15,15,"Eloquent, Quiet",Money,Threat,Religion,Persuatsion,Gnome,13,0,2,-1,0,0,0,0,0,0,0,2,1,2,-1,0
+Bouquet,Theodore,Chaotic Neutral,9,10,15,15,"Monotone, Sleepy",Information,Food,Performance,Survival,Giant,16,0,2,4,0,0,0,0,0,0,1,-5,1,-3,2,0
+Tortoise Shell,Evelyn,Chaotic Good,3,0,15,15,"Plain, Compulsive",Contest,Alcohol,Stealth,History,Dwarf,16,-5,1,2,0,0,0,0,0,0,0,3,-2,-4,-2,0
+Wire Swirl,Benjamin,Good,1,4,15,15,"Manipulative, Anxious",Rules,Money,Deception,Athletics,Half-Elf,13,1,1,-5,0,0,0,0,0,0,0,-1,0,-2,-4,0
+Cake,Theodore,Neutral,1,6,15,15,"Compulsive, Arrogant",Rules,Romance,Insight,Stealth,Elf,13,4,2,4,0,0,0,0,0,0,1,-5,-2,4,-5,0
+Checkerboard,Luna,Lawful Evil,3,4,15,15,"Anxious, Deceptive",Food,null,Performance,Deception,Human,15,-5,1,-4,0,0,0,0,0,0,0,-4,-4,-5,-1,0
+King of Hearts,Harper,Neutral,1,0,15,15,"Serious, Polite",Threat,null,Deception,Medicine,Human,14,-2,1,2,0,0,0,0,0,0,1,-4,-5,-1,4,0
+Clamshell,Mateo,Lawful Good,5,1,15,15,"Stupid, Suspicious",Chaos,Curiosity,Survival,Deception,Gnome,14,-3,3,5,0,0,0,0,0,0,1,-5,-5,4,1,0
+Ice,Camila,Good,9,10,15,15,"Kind, Poor",Affirmation,Morality,Investigation,Acrobatics,Halfling,16,1,2,2,0,0,0,0,0,0,0,-1,-4,4,-4,0
+Eclipse,Levi,Good,4,9,15,15,"Serious, Noisy",Curiosity,Rules,Medicine,Athletics,Gnome,16,2,2,-2,0,0,0,0,0,0,0,1,2,-5,5,0
+Honeycomb,Sofia,Chaotic Neutral,8,3,15,15,"Smart, Suspicious",Money,Alcohol,Investigation,Intimidation,Giant,13,-3,0,1,0,0,0,0,0,0,0,0,0,-5,0,0
+Joinery,Sebastian,Neutral,3,2,15,15,"Arrogant, Sad",Food,Information,History,Deception,Giant,13,-1,3,4,0,0,0,0,0,0,0,-3,-2,4,0,0
+Waterwheel,Scarlett,Lawful Good,2,8,15,15,"Honest, Confident",Curiosity,Morality,Deception,Survival,Human,15,0,1,-5,0,0,0,0,0,0,1,-1,-1,-2,1,0
+Glass,Daniel,Good,2,6,15,15,"Kind, Irrational",Curiosity,Morality,Survival,Performance,Human,13,1,1,-2,0,0,0,0,0,0,0,-4,3,0,1,0
+Feather,Elizabeth,Chaotic Good,6,0,15,15,"Wealthy, Poor",Rules,Contest,Perception,Survival,Halfling,13,-2,1,-1,0,0,0,0,0,0,0,0,-2,0,4,0
+Ram Horn,Jack,Lawful Evil,9,10,15,15,"Smart, Eloquent",Money,Romance,Survival,null,Half-Elf,15,-2,1,2,0,0,0,0,0,0,0,5,1,-4,3,0
+Grass,Eleanor,Chaotic Neutral,4,5,15,15,"Sad, Poor",Power,Information,Arcana,Deception,Halfling,15,5,1,-3,0,0,0,0,0,0,0,-5,-4,4,1,0
+Geometric,Michael,Lawful Good,2,9,15,15,"Wise, Arrogant",Affirmation,Food,History,Sleight of Hand,Fairy,15,1,1,-5,0,0,0,0,0,0,0,-2,3,-3,-4,0
+Bookshelf,Emily,Evil,7,9,15,15,"Honest, Manipulative",Affirmation,null,Medicine,Performance,Dragonborn,13,-3,1,0,0,0,0,0,0,0,0,-4,3,3,2,0
+Open Jaw,Alexander,Good,5,6,15,15,"Sad, Shy",Alcohol,Money,Acrobatics,Investigation,Half-Elf,14,1,1,4,0,0,0,0,0,0,0,0,-1,-1,4,0
+Heart (Accurate),Owen,Lawful Neutral,2,3,15,15,"Shy, Compulsive",Food,Romance,Insight,Religion,Fairy,14,-1,1,-3,0,0,0,0,0,0,1,-1,1,4,-2,0
+Locust Swarm,Mila,Neutral,6,1,15,15,"Plain, Wise",Romance,Affirmation,Deception,Survival,Dragonborn,16,1,1,-2,0,0,0,0,0,0,0,2,-2,4,5,0
+Clock Face,Asher,Lawful Neutral,5,1,15,15,"Confident, Creative",Romance,Curiosity,Insight,null,Half-Elf,15,2,2,-3,0,0,0,0,0,0,0,-2,0,-1,1,0
+Jellyfish,Violet,Neutral,10,9,15,15,"Compulsive, Shy",Romance,Alcohol,Athletics,Acrobatics,Giant,16,-1,2,-1,0,0,0,0,0,0,0,2,-5,-1,5,0
+Ladybug,Samuel,Chaotic Good,9,2,15,15,"Noisy, Arrogant",Rules,Affirmation,Persuatsion,Perception,Dwarf,14,-1,1,-1,0,0,0,0,0,0,0,-3,1,-1,-5,0
+Candy Star,Penelope,Lawful Neutral,2,4,15,15,"Wealthy, Sedentary",Rules,Romance,Medicine,Survival,Halfling,16,-3,1,4,0,0,0,0,0,0,0,-2,1,5,0,0
+Rainbow,Ethan,Lawful Good,3,9,15,15,"Noisy, Irrational",Affirmation,Morality,Medicine,Athletics,Halfling,14,2,2,4,0,0,0,0,0,0,0,-4,5,2,-5,0
+Snowflakes,Gianna,Good,7,2,15,15,"Polite, Irrational",Money,Chaos,Performance,Nature,Halfling,13,0,1,4,0,0,0,0,0,0,0,-4,1,-1,-5,0
+Stardust,Leo,Chaotic Evil,9,10,15,15,"Stupid, Manipulative",Money,Romance,Insight,Nature,Human,13,4,1,1,0,0,0,0,0,0,0,-2,-2,-4,5,0
+Supernova,Aria,Chaotic Evil,7,10,15,15,"Smart, Sad",Romance,Rules,Persuatsion,Insight,Giant,13,5,1,2,0,0,0,0,0,0,1,-1,0,2,0,0
+Constellation,Jackson,Good,7,4,15,15,"Compulsive, Polite",Power,Rules,Stealth,Animal Handling,Human,15,5,2,-2,0,0,0,0,0,0,0,-5,-2,5,-3,0
+Starlight,Abigail,Lawful Good,2,3,15,15,"Mean, Poor",Curiosity,Threat,Intimidation,Religion,Half-Elf,16,4,1,-2,0,0,0,0,0,0,0,5,3,-5,-1,0
+Sunflower,Mason,Good,3,7,15,15,"Smart, Arrogant",Romance,null,Nature,Performance,Goblin,13,4,1,-2,0,0,0,0,0,0,0,-5,4,-5,-4,0
+Gold,Ella,Lawful Neutral,7,1,15,15,"Beautiful, Manipulative",Information,Romance,Athletics,null,Human,15,-3,1,2,0,0,0,0,0,0,0,1,-3,-3,1,0
+Unicorn,Ezra,Lawful Good,1,6,15,15,"Arrogant, Manipulative",Money,Power,Performance,Arcana,Elf,15,3,2,4,0,0,0,0,0,0,0,1,1,2,-3,0
+Phoenix,John,Neutral,1,9,15,15,"Poor, Sedentary",Money,Curiosity,Persuatsion,Athletics,Half-Elf,16,-4,2,3,0,0,0,0,0,0,0,-4,3,-4,0,0
+Cerberus,Avery,Neutral,7,0,15,15,"Happy, Deceptive",Threat,Affirmation,Survival,Religion,Human,13,3,1,5,0,0,0,0,0,0,0,-3,5,-5,-5,0
+Gryphon,Hazel,Neutral,2,0,15,15,"Creative, Compulsive",Information,Money,Acrobatics,Investigation,Human,16,-2,2,0,0,0,0,0,0,0,0,0,3,2,-5,0
+Skink,Hudson,Lawful Neutral,6,8,15,15,"Creative, Honest",Curiosity,Money,Stealth,Medicine,Human,15,1,2,-5,0,0,0,0,0,0,0,2,1,-3,-4,0
+Crab Claw,Noara,Neutral,5,9,15,15,"Calm, Manipulative",Alcohol,null,Perception,Arcana,Goblin,16,3,1,3,0,0,0,0,0,0,0,-3,5,-4,-3,0
+Worm,Luca,Lawful Neutral,7,4,15,15,"Shy, Mean",Curiosity,Alcohol,Religion,Performance,Dwarf,16,3,1,-5,0,0,0,0,0,0,0,3,-5,0,5,0
+Ear,Layla,Lawful Neutral,6,8,15,15,"Noisy, Monotone",Romance,Alcohol,Investigation,Nature,Halfling,16,4,1,0,0,0,0,0,0,0,0,-3,5,4,2,0
+River Rock,Ayden,Chaotic Good,9,8,15,15,"Kind, Anxious",Threat,Food,Insight,Deception,Half-Elf,13,2,0,-1,0,0,0,0,0,0,1,4,5,-3,0,0
+Lazy River,Lily,Lawful Neutral,3,5,15,15,"Wealthy, Arrogant",Curiosity,Food,Animal Handling,Perception,Dragonborn,15,-3,1,1,0,0,0,0,0,0,0,2,-3,-1,5,0
+Folded Paper,Joseph,Good,3,7,15,15,"Eloquent, Wise",Money,Food,Athletics,Investigation,Half-Elf,15,-1,1,-1,0,0,0,0,0,0,0,-5,5,-4,0,0
+Spider,Aurora,Chaotic Good,8,1,15,15,"Stupid, Sleepy",Rules,Chaos,Animal Handling,null,Halfling,13,-4,1,1,0,0,0,0,0,0,0,4,2,3,-1,0
+Branch,David,Lawful Neutral,7,1,15,15,"Quiet, Deceptive",Power,Food,Deception,Acrobatics,Elf,14,-2,1,-2,0,0,0,0,0,0,0,-4,4,-5,-3,0
+Duck,Nova,Good,10,5,15,15,"Confident, Smart",Threat,Alcohol,Medicine,Athletics,Halfling,16,-4,1,-3,0,0,0,0,0,0,1,-2,5,5,-5,0
+Waterwheel,Jacob,Lawful Neutral,2,3,15,15,"Wealthy, Talkative",Chaos,Alcohol,History,Sleight of Hand,Dragonborn,16,1,2,-4,0,0,0,0,0,0,0,0,-4,-5,4,0
+Owl,Ellie,Good,6,4,15,15,"Calm, Arrogant",Threat,Affirmation,Athletics,Sleight of Hand,Fairy,15,2,1,-3,0,0,0,0,0,0,1,1,0,2,-4,0
+Sponge,Logan,Lawful Neutral,8,7,15,15,"Silly, Quiet",Romance,Food,History,Deception,Halfling,13,0,1,-4,0,0,0,0,0,0,0,-1,4,-3,-4,0
+Lightning,Madison,Chaotic Good,2,7,15,15,"Kind, Talkative",Money,null,Persuatsion,Deception,Halfling,13,0,1,1,0,0,0,0,0,0,0,-1,3,5,1,0
+Agriculture,Luke,Lawful Neutral,6,4,15,15,"Shy, Athletic",Money,Curiosity,Persuatsion,Performance,Halfling,15,-2,1,5,0,0,0,0,0,0,0,-3,3,5,3,0
+Stag,Julian,Neutral,5,3,15,15,"Silly, Sarcastic",Money,Information,Investigation,Medicine,Human,15,-5,0,-2,0,0,0,0,0,0,0,-3,4,-4,-5,0
+Labyrinth,Grace,Neutral,9,2,15,15,"Wise, Irrational",Threat,Curiosity,Persuatsion,Perception,Halfling,14,5,1,3,0,0,0,0,0,0,0,4,4,-3,2,0
+Geode,Isla,Chaotic Neutral,4,1,15,15,"Noisy, Happy",Food,Romance,Stealth,Athletics,Giant,15,4,1,-1,0,0,0,0,0,0,0,-5,-2,-1,2,0
+Ash,Gabriel,Lawful Neutral,7,9,15,15,"Beautiful, Sad",Morality,Food,Survival,Acrobatics,Halfling,13,5,1,2,0,0,0,0,0,0,0,2,-2,0,2,0
+Charcoal,Willow,Lawful Neutral,9,6,15,15,"Shy, Silly",Curiosity,Romance,Persuatsion,Nature,Fairy,13,2,1,-3,0,0,0,0,0,0,0,4,-1,2,-5,0
+Fall Leaves,Grayson,Lawful Evil,9,6,15,15,"Calm, Deceptive",Affirmation,Rules,Animal Handling,Intimidation,Half-Elf,16,2,3,-4,0,0,0,0,0,0,0,-2,-4,0,-3,0
+Aurora,Zoe,Chaotic Neutral,10,2,15,15,"Noisy, Sarcastic",Threat,Romance,Insight,Investigation,Dragonborn,14,-4,1,0,0,0,0,0,0,0,1,3,-1,2,4,0
+Coral,Wyatt,Chaotic Good,8,5,15,15,"Mean, Beautiful",Curiosity,Food,Perception,Insight,Human,15,1,2,-2,0,0,0,0,0,0,0,0,-2,4,-3,0
+Bread,Riley,Neutral,6,9,15,15,"Sedentary, Wise",Rules,Information,Nature,Medicine,Human,13,0,2,-5,0,0,0,0,0,0,0,-3,4,-5,-4,0
+Balloons,Matthew,Lawful Evil,2,8,15,15,"Sedentary, Anxious",Alcohol,Affirmation,Acrobatics,Nature,Halfling,16,-4,1,-2,0,0,0,0,0,0,1,1,5,1,4,0
+Gaudy,Stella,Lawful Good,8,7,15,15,"Creative, Stupid",Money,Affirmation,Insight,Deception,Half-Orc,16,-1,1,0,0,0,0,0,0,0,0,2,-1,-4,0,0
+Windchimes,Maverick,Lawful Neutral,8,9,15,15,"Noisy, Sarcastic",Money,Power,Insight,Acrobatics,Human,15,1,0,5,0,0,0,0,0,0,0,1,0,-5,5,0
+Candle,Eliana,Good,1,7,15,15,"Plain, Poor",Affirmation,Alcohol,Arcana,Religion,Human,14,0,1,5,0,0,0,0,0,0,0,-4,-3,4,-2,0
+Rainbow,Dylan,Neutral,3,6,15,15,"Sad, Deceptive",Rules,Power,Sleight of Hand,Insight,Tiefling,16,5,1,4,0,0,0,0,0,0,0,3,3,3,-5,0
+Hercules Beetle,Isaac,Chaotic Neutral,8,7,15,15,"Creative, Polite",Rules,Affirmation,Arcana,Medicine,Human,13,3,2,-2,0,0,0,0,0,0,0,-4,4,2,-5,0
+Watermelon,Ivy,Lawful Good,7,2,15,15,"Monotone, Quiet",Rules,Affirmation,Nature,Medicine,Elf,15,-5,1,1,0,0,0,0,0,0,0,1,0,3,-4,0
+Crow,Victoria,Evil,3,5,15,15,"Stupid, Stupid",Money,Romance,Perception,Insight,Dwarf,16,-4,2,-3,0,0,0,0,0,0,1,-5,-4,0,-5,0
+Hawk,Elias,Neutral,5,6,15,15,"Sad, Shy",Chaos,Food,History,Religion,Half-Orc,16,-2,1,0,0,0,0,0,0,0,0,3,-5,-2,3,0
+Chain,Emilia,Evil,5,4,15,15,"Noisy, Beautiful",Chaos,Threat,Intimidation,Insight,Dwarf,16,-2,1,-2,0,0,0,0,0,0,0,3,-3,-2,0,0
+Statue,Anthony,Chaotic Good,3,1,15,15,"Polite, Manipulative",Alcohol,Rules,Animal Handling,Investigation,Human,14,-2,1,3,0,0,0,0,0,0,0,-1,3,-1,-1,0
+Lucky Cat,Ian,0,15,15,15,15,0,0,0,0,0,Tabaxi,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Quincy :),Avery,0,15,15,15,15,0,0,0,0,0,Tabaxi,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Amber Fox,Will,0,15,15,15,15,0,0,0,0,0,Harengon,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Barn Owl,Ethan,0,15,15,15,15,0,0,0,0,0,Kobold,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Tentacle?,Renna,0,15,15,15,15,0,0,0,0,0,Human?,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Storm Giant,Sean,0,15,15,15,15,0,0,0,0,0,Gnome?,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1

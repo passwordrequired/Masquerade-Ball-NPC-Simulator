@@ -1,0 +1,24 @@
+D:\D&D Stuff\NPC Sim\Masq Ball NPC Sim\Masq Ball NPC Sim\bin\Debug\Masq Ball NPC Sim.exe.config
+D:\D&D Stuff\NPC Sim\Masq Ball NPC Sim\Masq Ball NPC Sim\bin\Debug\Masq Ball NPC Sim.exe
+D:\D&D Stuff\NPC Sim\Masq Ball NPC Sim\Masq Ball NPC Sim\bin\Debug\Masq Ball NPC Sim.pdb
+D:\D&D Stuff\NPC Sim\Masq Ball NPC Sim\Masq Ball NPC Sim\bin\Debug\CsvHelper.dll
+D:\D&D Stuff\NPC Sim\Masq Ball NPC Sim\Masq Ball NPC Sim\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\D&D Stuff\NPC Sim\Masq Ball NPC Sim\Masq Ball NPC Sim\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\D&D Stuff\NPC Sim\Masq Ball NPC Sim\Masq Ball NPC Sim\bin\Debug\System.Buffers.dll
+D:\D&D Stuff\NPC Sim\Masq Ball NPC Sim\Masq Ball NPC Sim\bin\Debug\System.Memory.dll
+D:\D&D Stuff\NPC Sim\Masq Ball NPC Sim\Masq Ball NPC Sim\bin\Debug\System.Numerics.Vectors.dll
+D:\D&D Stuff\NPC Sim\Masq Ball NPC Sim\Masq Ball NPC Sim\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\D&D Stuff\NPC Sim\Masq Ball NPC Sim\Masq Ball NPC Sim\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\D&D Stuff\NPC Sim\Masq Ball NPC Sim\Masq Ball NPC Sim\bin\Debug\CsvHelper.xml
+D:\D&D Stuff\NPC Sim\Masq Ball NPC Sim\Masq Ball NPC Sim\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\D&D Stuff\NPC Sim\Masq Ball NPC Sim\Masq Ball NPC Sim\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\D&D Stuff\NPC Sim\Masq Ball NPC Sim\Masq Ball NPC Sim\bin\Debug\System.Buffers.xml
+D:\D&D Stuff\NPC Sim\Masq Ball NPC Sim\Masq Ball NPC Sim\bin\Debug\System.Memory.xml
+D:\D&D Stuff\NPC Sim\Masq Ball NPC Sim\Masq Ball NPC Sim\bin\Debug\System.Numerics.Vectors.xml
+D:\D&D Stuff\NPC Sim\Masq Ball NPC Sim\Masq Ball NPC Sim\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\D&D Stuff\NPC Sim\Masq Ball NPC Sim\Masq Ball NPC Sim\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\D&D Stuff\NPC Sim\Masq Ball NPC Sim\Masq Ball NPC Sim\obj\Debug\Masq Ball NPC Sim.csproj.AssemblyReference.cache
+D:\D&D Stuff\NPC Sim\Masq Ball NPC Sim\Masq Ball NPC Sim\obj\Debug\Masq Ball NPC Sim.csproj.CoreCompileInputs.cache
+D:\D&D Stuff\NPC Sim\Masq Ball NPC Sim\Masq Ball NPC Sim\obj\Debug\Masq Ball NPC Sim.csproj.CopyComplete
+D:\D&D Stuff\NPC Sim\Masq Ball NPC Sim\Masq Ball NPC Sim\obj\Debug\Masq Ball NPC Sim.exe
+D:\D&D Stuff\NPC Sim\Masq Ball NPC Sim\Masq Ball NPC Sim\obj\Debug\Masq Ball NPC Sim.pdb
